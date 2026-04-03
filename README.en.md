@@ -1,4 +1,4 @@
-# Harness Template - Harness Engineering
+# Harness Template - Harness Engineering Framework Template
 
 <p align="center">
   <strong>Make AI Agent (Claude Code / Cursor) Your Reliable Development Partner</strong>
