@@ -1,7 +1,7 @@
 # Harness Template - 驾驭工程框架模板
 
 <p align="center">
-  <strong>让 AI Agent（Claude Code / Cursor）成为你的可靠开发伙伴</strong>
+  <strong>让 AI Agent（Claude Code / Cursor）成为更可靠的开发伙伴</strong>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 | 🔄 **同时做太多** | 一个会话改了 20 个文件，没有一个能用的 |
 | 📉 **质量下滑** | 项目越往后越乱，技术债累积 |
 
-**Harness 就是解决这些问题的工程框架。**
+**Harness 是一套旨在帮助解决这些问题的工程框架。**
 
 它把"怎么让 AI 好好干活"这件事标准化、文档化、自动化。不是每次口头交代，而是把规则写在文件里，让 AI 每次都能看到、都能遵循。
 
@@ -116,14 +116,14 @@ Level 3: 端到端验证
 
 ### 3. 会话工作流
 
-**每次会话开始，AI 必须：**
+**每次会话开始，建议 AI：**
 1. 读 `CLAUDE.md` → 了解项目是什么
 2. 读 `PROGRESS.md` → 了解现在做到哪
 3. 读 `features.json` → 了解还有哪些功能
 4. 跑 `make check` → 确认环境正常
 5. 从 PROGRESS.md 的"下一步"开始
 
-**每次会话结束，AI 必须：**
+**每次会话结束，建议 AI：**
 1. 更新 `PROGRESS.md` → 记录完成的工作
 2. 跑 `make check` → 确认一切正常
 3. 跑 `check-clean-state.sh` → 检查无残留
@@ -318,7 +318,7 @@ harness-template/
 4. 现在有哪些功能要做？
 5. 下一步该做什么？
 
-全部答对 = 合格。
+全部答对 ≈ 合格（实际效果因项目复杂度而异）。
 
 ---
 
@@ -357,7 +357,7 @@ harness-template/
 - [OpenAI: Harness Engineering](https://openai.com/index/harness-engineering/)
 - [Anthropic: Effective Harnesses for Long-Running Agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 
-> **核心理念：AI Agent 的表现不取决于模型能力，而取决于工程基础设施。**
+> **核心理念：AI Agent 的表现不仅取决于模型能力，也高度依赖于工程基础设施。**
 
 ---
 
