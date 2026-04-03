@@ -1,7 +1,7 @@
-# Harness Template
+# Harness Template - AI Agent 开发工作流框架
 
 <p align="center">
-  <strong>让 AI Agent 成为你的可靠开发伙伴</strong>
+  <strong>让 AI Agent（Claude Code / Cursor）成为你的可靠开发伙伴</strong>
 </p>
 
 <p align="center">
@@ -10,6 +10,13 @@
   <a href="#核心机制">核心机制</a> •
   <a href="#完整指南">完整指南</a> •
   <a href="#常见问题">常见问题</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Agent-orange" alt="AI Agent">
+  <img src="https://img.shields.io/badge/Claude-Code-blue" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Cursor-IDE-green" alt="Cursor">
+  <img src="https://img.shields.io/badge/LLM-Workflow-yellow" alt="LLM Workflow">
 </p>
 
 ---

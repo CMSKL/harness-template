@@ -1,7 +1,7 @@
-# Harness Template
+# Harness Template - AI Agent Development Workflow Framework
 
 <p align="center">
-  <strong>Make AI Agent Your Reliable Development Partner</strong>
+  <strong>Make AI Agent (Claude Code / Cursor) Your Reliable Development Partner</strong>
 </p>
 
 <p align="center">
@@ -10,6 +10,13 @@
   <a href="#core-mechanisms">Core Mechanisms</a> •
   <a href="#full-guide">Full Guide</a> •
   <a href="#faq">FAQ</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Agent-orange" alt="AI Agent">
+  <img src="https://img.shields.io/badge/Claude-Code-blue" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Cursor-IDE-green" alt="Cursor">
+  <img src="https://img.shields.io/badge/LLM-Workflow-yellow" alt="LLM Workflow">
 </p>
 
 ---
