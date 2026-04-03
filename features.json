@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "project": "TODO: 项目名称",
+  "description": "TODO: 项目一句话描述",
+  "rules": {
+    "wip_limit": 1,
+    "single_source_of_truth": true,
+    "passing_requires_verification": true
+  },
+  "features": [
+    {
+      "id": "F01",
+      "behavior": "TODO: 描述用户可观察到的功能行为",
+      "verification": "TODO: 可执行验证命令",
+      "state": "not_started",
+      "priority": 1,
+      "dependencies": [],
+      "evidence": null,
+      "notes": "",
+      "created_at": "TODO",
+      "updated_at": "TODO"
+    },
+    {
+      "id": "F02",
+      "behavior": "TODO: 第二个功能行为",
+      "verification": "TODO: 可执行验证命令",
+      "state": "not_started",
+      "priority": 2,
+      "dependencies": ["F01"],
+      "evidence": null,
+      "notes": "",
+      "created_at": "TODO",
+      "updated_at": "TODO"
+    }
+  ]
+}
