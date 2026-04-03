@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="./README.en.md">English</a> •
   <a href="#快速开始">快速开始</a> •
-  <a href="#核心概念">核心概念</a> •
+  <a href="#核心机制">核心机制</a> •
   <a href="#完整指南">完整指南</a> •
   <a href="#常见问题">常见问题</a>
 </p>
@@ -191,7 +192,7 @@ check: lint test
     {
       "id": "F01",
       "behavior": "用户可以注册账户",
-      "verification": "curl -X POST http://localhost:3000/api/register -d '{\"email\":\"test@test.com\",\"password\":\"123456\"}'",
+      "verification": "curl -X POST http://localhost:3000/api/register -d '{"email":"test@test.com","password":"123456"}'",
       "state": "not_started",
       "priority": 1
     }
