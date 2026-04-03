@@ -1,7 +1,7 @@
 # Harness Template - Harness Engineering Framework Template
 
 <p align="center">
-  <strong>Make AI Agent (Claude Code / Cursor) Your Reliable Development Partner</strong>
+  <strong>Make AI Agent (Claude Code / Cursor) A More Reliable Development Partner</strong>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ When developing with AI, have you encountered these problems?
 | 🔄 **Doing Too Much at Once** | One session modifies 20 files, none of them usable |
 | 📉 **Declining Quality** | Project gets messier over time, technical debt accumulates |
 
-**Harness is an engineering framework to solve these problems.**
+**Harness is an engineering framework designed to help address these problems.**
 
 It standardizes, documents, and automates "how to make AI work properly". Instead of verbal instructions every time, write the rules in files so AI can see and follow them every time.
 
@@ -117,14 +117,14 @@ Level 3: End-to-End Verification
 
 ### 3. Session Workflow
 
-**At the start of each session, AI must:**
+**At the start of each session, AI is recommended to:**
 1. Read `CLAUDE.md` → Understand what the project is
 2. Read `PROGRESS.md` → Understand current progress
 3. Read `features.json` → Understand remaining features
 4. Run `make check` → Confirm environment is healthy
 5. Start from "Next Steps" in PROGRESS.md
 
-**At the end of each session, AI must:**
+**At the end of each session, AI is recommended to:**
 1. Update `PROGRESS.md` → Record completed work
 2. Run `make check` → Confirm everything is fine
 3. Run `check-clean-state.sh` → Check no leftovers
@@ -319,7 +319,7 @@ A size that can be completed in one session is best.
 4. What features need to be done?
 5. What should I do next?
 
-All correct =合格 (qualified).
+All correct ≈ 合格 (qualified) (actual results may vary based on project complexity).
 
 ---
 
@@ -358,7 +358,7 @@ This template's design references the following engineering practices:
 - [OpenAI: Harness Engineering](https://openai.com/index/harness-engineering/)
 - [Anthropic: Effective Harnesses for Long-Running Agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 
-> **Core Principle: AI Agent performance doesn't depend on model capability, but on engineering infrastructure.**
+> **Core Principle: AI Agent performance depends not only on model capability, but also significantly on engineering infrastructure.**
 
 ---
 
@@ -395,3 +395,15 @@ Your support motivates me to continuously improve this template. Every Star mean
 <p align="center">
   <strong>Start using Harness, make AI your reliable development partner</strong>
 </p>
+
+---
+
+## Disclaimer
+
+This template is provided for educational purposes only. Results may vary depending on the specific project, AI model, and usage.
+The author assumes no responsibility for any outcomes resulting from the use of this template.
+
+By using this template, you acknowledge and agree that:
+- AI outputs may contain errors and require human review
+- Please comply with the terms of service of relevant AI providers
+- For critical business code, thorough testing and review is recommended
