@@ -373,7 +373,13 @@ Your support motivates me to continuously improve this template. Every Star mean
 
 <p align="center">
   <a href="https://github.com/CMSKL/harness-template">
-    <img src="https://img.shields.io/github/stars/CMSKL/harness-template?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/CMSKL/harness-template" alt="GitHub Stars">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CMSKL/harness-template">
+    <img src="https://img.shields.io/badge/-Give%20a%20Star-yellow?style=for-the-badge&logo=github" alt="Give a Star">
   </a>
 </p>
 
