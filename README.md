@@ -1,4 +1,4 @@
-# Harness Template - AI Agent 开发工作流框架
+# Harness Template - 驾驭工程
 
 <p align="center">
   <strong>让 AI Agent（Claude Code / Cursor）成为你的可靠开发伙伴</strong>
