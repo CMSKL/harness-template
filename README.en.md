@@ -400,10 +400,11 @@ Your support motivates me to continuously improve this template. Every Star mean
 
 ## Disclaimer
 
-This template is provided for educational purposes only. Results may vary depending on the specific project, AI model, and usage.
+This template is provided for educational purposes only. Results may vary depending on the specific project, AI model, and usage.  
 The author assumes no responsibility for any outcomes resulting from the use of this template.
 
 By using this template, you acknowledge and agree that:
+
 - AI outputs may contain errors and require human review
 - Please comply with the terms of service of relevant AI providers
 - For critical business code, thorough testing and review is recommended
