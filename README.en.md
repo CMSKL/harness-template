@@ -351,6 +351,8 @@ Every problem encountered makes this template better:
 
 ---
 
+---
+
 ## Theoretical Foundation
 
 This template's design references the following engineering practices:
@@ -362,9 +364,16 @@ This template's design references the following engineering practices:
 
 ---
 
-## License
+## Disclaimer
 
-[MIT](LICENSE) © 2026 CMSKL
+This template is provided for educational purposes only. Results may vary depending on the specific project, AI model, and usage.  
+The author assumes no responsibility for any outcomes resulting from the use of this template.
+
+By using this template, you acknowledge and agree that:
+
+- AI outputs may contain errors and require human review
+- Please comply with the terms of service of relevant AI providers
+- For critical business code, thorough testing and review is recommended
 
 ---
 
@@ -398,13 +407,6 @@ Your support motivates me to continuously improve this template. Every Star mean
 
 ---
 
-## Disclaimer
+## License
 
-This template is provided for educational purposes only. Results may vary depending on the specific project, AI model, and usage.  
-The author assumes no responsibility for any outcomes resulting from the use of this template.
-
-By using this template, you acknowledge and agree that:
-
-- AI outputs may contain errors and require human review
-- Please comply with the terms of service of relevant AI providers
-- For critical business code, thorough testing and review is recommended
+[MIT](LICENSE) © 2026 CMSKL
