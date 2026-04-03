@@ -357,7 +357,7 @@ This template's design references the following engineering practices:
 
 ## License
 
-[MIT](LICENSE) © 2025 CMSKL
+[MIT](LICENSE) © 2026 CMSKL
 
 ---
 

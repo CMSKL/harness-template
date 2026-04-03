@@ -356,7 +356,7 @@ harness-template/
 
 ## License
 
-[MIT](LICENSE) © 2025 CMSKL
+[MIT](LICENSE) © 2026 CMSKL
 
 ---
 
