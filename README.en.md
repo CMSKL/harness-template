@@ -361,6 +361,24 @@ This template's design references the following engineering practices:
 
 ---
 
+## Support This Project
+
+If this template helps you, please give it a ⭐ Star!
+
+Your support motivates me to continuously improve this template. Every Star means one more person finds this framework valuable, and encourages me to:
+
+- Continuously improve based on real-world feedback
+- Add more practical examples and documentation
+- Share pitfalls and solutions from actual usage
+
+<p align="center">
+  <a href="https://github.com/CMSKL/harness-template">
+    <img src="https://img.shields.io/github/stars/CMSKL/harness-template?style=social" alt="GitHub Stars">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <strong>Start using Harness, make AI your reliable development partner</strong>
 </p>

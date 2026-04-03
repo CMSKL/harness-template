@@ -360,6 +360,24 @@ harness-template/
 
 ---
 
+## 支持这个项目
+
+如果这套模板对你有帮助，请给个 ⭐ Star！
+
+你的支持是我持续优化这套模板的动力。每一个 Star 都意味着多一个人觉得这套框架有价值，也让我更有动力去：
+
+- 根据实际使用反馈持续改进
+- 补充更多实用的示例和文档
+- 分享在使用中踩过的坑和解决方案
+
+<p align="center">
+  <a href="https://github.com/CMSKL/harness-template">
+    <img src="https://img.shields.io/github/stars/CMSKL/harness-template?style=social" alt="GitHub Stars">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <strong>开始使用 Harness，让 AI 成为你的可靠开发伙伴</strong>
 </p>
