@@ -80,7 +80,7 @@ AgentHarness 是一套**与具体技术栈无关的工程骨架**。无论你用
 
 ### 1. 功能清单驱动（features.json）
 
-每个功能需要有：
+每个功能应当有：
 
 ```json
 {
@@ -95,7 +95,7 @@ AgentHarness 是一套**与具体技术栈无关的工程骨架**。无论你用
 - **verification**: 可执行的验证命令
 - **state**: not_started → active → passing
 
-**WIP=1**: 任何时候只能有一个功能处于 active 状态。
+**WIP=1**: 建议一次只有一个功能处于 active 状态。
 
 ### 2. 三层验证
 
@@ -165,7 +165,7 @@ make check    # 完整验证
 
 ## 硬约束（重要约定）
 1. 所有 API 应当返回 JSON
-2. 禁止裸写 SQL，建议使用 ORM
+2. 避免裸写 SQL，建议使用 ORM
 3. 所有路由应当有测试
 ```
 
