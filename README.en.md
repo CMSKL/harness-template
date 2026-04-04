@@ -244,7 +244,7 @@ Includes:
 ## File Structure
 
 ```
-agentharness/
+agent-harness/
 │
 ├── 📋 CLAUDE.md              # AI's "onboarding manual"
 ├── 📊 PROGRESS.md            # Work progress record

@@ -243,7 +243,7 @@ check: lint test
 ## 文件结构
 
 ```
-agentharness/
+agent-harness/
 │
 ├── 📋 CLAUDE.md              # AI 的"入职手册"
 ├── 📊 PROGRESS.md            # 工作进度记录

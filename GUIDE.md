@@ -198,7 +198,7 @@
 ## 4. 文件结构一览
 
 ```
-agentharness/
+agent-harness/
 │
 ├── 📋 CLAUDE.md              ← Agent 的"入职手册"
 │   项目是什么、怎么启动、哪些规则不能违反
@@ -250,7 +250,7 @@ agentharness/
 
 **1. 复制模板**
 ```bash
-cp -r agentharness/ my-todo-app/
+cp -r agent-harness/ my-todo-app/
 cd my-todo-app
 ```
 
