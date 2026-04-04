@@ -1,4 +1,4 @@
-# Harness Template - Harness Engineering Framework Template
+# AgentHarness - AI Agent Harness Engineering Framework
 
 <p align="center">
   <strong>Make AI Agent (Claude Code / Cursor) A More Reliable Development Partner</strong>
@@ -41,7 +41,7 @@ It standardizes, documents, and automates "how to make AI work properly". Instea
 
 ## What Is This?
 
-Harness Template is a **technology-stack-agnostic engineering skeleton**. Whether you use Node.js, Python, Go, or other languages, you can use this framework.
+AgentHarness is a **technology-stack-agnostic engineering skeleton**. Whether you use Node.js, Python, Go, or other languages, you can use this framework.
 
 ### Design Philosophy
 
@@ -138,7 +138,7 @@ Level 3: End-to-End Verification
 
 ```bash
 # Method 1: Direct download
-git clone https://github.com/CMSKL/harness-template.git my-project
+git clone https://github.com/CMSKL/agentharness.git my-project
 cd my-project
 rm -rf .git
 git init
@@ -244,7 +244,7 @@ Includes:
 ## File Structure
 
 ```
-harness-template/
+agentharness/
 │
 ├── 📋 CLAUDE.md              # AI's "onboarding manual"
 ├── 📊 PROGRESS.md            # Work progress record
@@ -388,13 +388,13 @@ Your support motivates me to continuously improve this template. Every Star mean
 - Share pitfalls and solutions from actual usage
 
 <p align="center">
-  <a href="https://github.com/CMSKL/harness-template">
-    <img src="https://img.shields.io/github/stars/CMSKL/harness-template" alt="GitHub Stars">
+  <a href="https://github.com/CMSKL/agentharness">
+    <img src="https://img.shields.io/github/stars/CMSKL/agentharness" alt="GitHub Stars">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CMSKL/harness-template">
+  <a href="https://github.com/CMSKL/agentharness">
     <img src="https://img.shields.io/badge/-Give%20a%20Star-yellow?style=for-the-badge&logo=github" alt="Give a Star">
   </a>
 </p>

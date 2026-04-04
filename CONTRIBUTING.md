@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢你对 Harness Template 的兴趣！我们欢迎各种形式的贡献。
+感谢你对 AgentHarness 的兴趣！我们欢迎各种形式的贡献。
 
 ## 如何贡献
 
@@ -20,7 +20,7 @@
 1. **Fork 仓库** 到你的 GitHub 账户
 2. **Clone 你的 fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/harness-template.git
+   git clone https://github.com/YOUR_USERNAME/agent-harness.git
    ```
 3. **创建分支**
    ```bash
@@ -95,6 +95,6 @@
 ## 问题？
 
 如果你有任何问题，欢迎：
-- 发送邮件到 chaoallenkristen@qq.com，或创建 [GitHub Issue](https://github.com/CMSKL/harness-template/issues)
+- 发送邮件到 chaoallenkristen@qq.com，或创建 [GitHub Issue](https://github.com/CMSKL/agent-harness/issues)
 
 再次感谢你的贡献！

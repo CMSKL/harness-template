@@ -1,4 +1,4 @@
-# Harness Template - 驾驭工程框架模板
+# AgentHarness - AI 驾驭工程框架
 
 <p align="center">
   <strong>让 AI Agent（Claude Code / Cursor）成为更可靠的开发伙伴</strong>
@@ -41,7 +41,7 @@
 
 ## 这是什么？
 
-Harness Template 是一套**与具体技术栈无关的工程骨架**。无论你用 Node.js、Python、Go 还是其他语言，都可以使用这套框架。
+AgentHarness 是一套**与具体技术栈无关的工程骨架**。无论你用 Node.js、Python、Go 还是其他语言，都可以使用这套框架。
 
 ### 设计哲学
 
@@ -137,7 +137,7 @@ Level 3: 端到端验证
 
 ```bash
 # 方式 1: 直接下载
-git clone https://github.com/CMSKL/harness-template.git my-project
+git clone https://github.com/CMSKL/agentharness.git my-project
 cd my-project
 rm -rf .git
 git init
@@ -243,7 +243,7 @@ check: lint test
 ## 文件结构
 
 ```
-harness-template/
+agentharness/
 │
 ├── 📋 CLAUDE.md              # AI 的"入职手册"
 ├── 📊 PROGRESS.md            # 工作进度记录
@@ -388,13 +388,13 @@ harness-template/
 - 分享在使用中踩过的坑和解决方案
 
 <p align="center">
-  <a href="https://github.com/CMSKL/harness-template">
-    <img src="https://img.shields.io/github/stars/CMSKL/harness-template" alt="GitHub Stars">
+  <a href="https://github.com/CMSKL/agentharness">
+    <img src="https://img.shields.io/github/stars/CMSKL/agentharness" alt="GitHub Stars">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CMSKL/harness-template">
+  <a href="https://github.com/CMSKL/agentharness">
     <img src="https://img.shields.io/badge/-Give%20a%20Star-yellow?style=for-the-badge&logo=github" alt="Give a Star">
   </a>
 </p>

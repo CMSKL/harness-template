@@ -1,4 +1,4 @@
-# Harness Template 使用指南
+# AgentHarness 使用指南
 
 > 让 AI Agent 能够稳定、可靠地帮你开发项目的工程框架
 
@@ -198,7 +198,7 @@
 ## 4. 文件结构一览
 
 ```
-harness-template/
+agentharness/
 │
 ├── 📋 CLAUDE.md              ← Agent 的"入职手册"
 │   项目是什么、怎么启动、哪些规则不能违反
@@ -250,7 +250,7 @@ harness-template/
 
 **1. 复制模板**
 ```bash
-cp -r harness-template/ my-todo-app/
+cp -r agentharness/ my-todo-app/
 cd my-todo-app
 ```
 
