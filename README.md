@@ -410,3 +410,12 @@ harness-template/
 ## License
 
 [MIT](LICENSE) © 2026 CMSKL
+
+---
+
+## 社区参与
+
+- [行为准则](./CODE_OF_CONDUCT.md)
+- [贡献指南](./CONTRIBUTING.md)
+- [安全政策](./SECURITY.md)
+
