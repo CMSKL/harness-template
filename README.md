@@ -1,7 +1,7 @@
 # AgentHarness - AI 驾驭工程框架
 
 <p align="center">
-  <strong>让 AI Agent（Claude Code / Cursor）成为更可靠的开发伙伴</strong>
+  <strong>让 AI Agent 成为更可靠的开发伙伴</strong>
 </p>
 
 <p align="center">

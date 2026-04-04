@@ -1,7 +1,7 @@
 # AgentHarness - AI Agent Harness Engineering Framework
 
 <p align="center">
-  <strong>Make AI Agent (Claude Code / Cursor) A More Reliable Development Partner</strong>
+  <strong>Make AI Agent A More Reliable Development Partner</strong>
 </p>
 
 <p align="center">
