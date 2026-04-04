@@ -96,6 +96,6 @@
 
 如果你有任何问题，欢迎：
 - 创建 Issue
-- 发送邮件到 [你的邮箱]
+- 发送邮件到 chaoallenkristen@qq.com，或创建 [GitHub Issue](https://github.com/CMSKL/harness-template/issues)
 
 再次感谢你的贡献！

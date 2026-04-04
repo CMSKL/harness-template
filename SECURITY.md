@@ -15,7 +15,9 @@
 
 ### 报告流程
 
-1. **发送邮件至**：[你的安全邮箱，如 security@example.com]
+1. **发送邮件至**：chaoallenkristen@qq.com
+   
+   或创建私人 Issue（请先标记为敏感）
 
 2. **邮件内容应包括**：
    - 漏洞的详细描述
@@ -78,5 +80,5 @@
 ## 联系我们
 
 如有安全问题，请联系：
-- 邮箱：[你的邮箱]
-- 其他联系方式：[如有]
+- 邮箱：chaoallenkristen@qq.com
+- GitHub Issues：https://github.com/CMSKL/harness-template/issues
