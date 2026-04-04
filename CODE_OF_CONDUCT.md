@@ -34,7 +34,7 @@
 
 ## 执行
 
-可以通过 [GitHub Issues](https://github.com/CMSKL/agentharness/issues) 或邮件（chaoallenkristen@qq.com）联系项目团队报告滥用、骚扰或其他不可接受的行为。所有投诉将被审查和调查，并将根据情况做出必要和适当的回应。项目团队应当对事件举报人保密。具体执行政策的更多细节可能会单独发布。
+可以通过 [GitHub Issues](https://github.com/CMSKL/agent-harness/issues) 或邮件（chaoallenkristen@qq.com）联系项目团队报告滥用、骚扰或其他不可接受的行为。所有投诉将被审查和调查，并将根据情况做出必要和适当的回应。项目团队应当对事件举报人保密。具体执行政策的更多细节可能会单独发布。
 
 未真诚遵守或执行行为准则的项目维护者可能面临由项目领导层其他成员确定的临时或永久性后果。
 

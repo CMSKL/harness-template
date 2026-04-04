@@ -137,7 +137,7 @@ Level 3: 端到端验证
 
 ```bash
 # 方式 1: 直接下载
-git clone https://github.com/CMSKL/agentharness.git my-project
+git clone https://github.com/CMSKL/agent-harness.git my-project
 cd my-project
 rm -rf .git
 git init
@@ -388,13 +388,13 @@ agentharness/
 - 分享在使用中踩过的坑和解决方案
 
 <p align="center">
-  <a href="https://github.com/CMSKL/agentharness">
-    <img src="https://img.shields.io/github/stars/CMSKL/agentharness" alt="GitHub Stars">
+  <a href="https://github.com/CMSKL/agent-harness">
+    <img src="https://img.shields.io/github/stars/CMSKL/agent-harness" alt="GitHub Stars">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CMSKL/agentharness">
+  <a href="https://github.com/CMSKL/agent-harness">
     <img src="https://img.shields.io/badge/-Give%20a%20Star-yellow?style=for-the-badge&logo=github" alt="Give a Star">
   </a>
 </p>

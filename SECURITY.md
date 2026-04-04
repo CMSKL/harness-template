@@ -81,4 +81,4 @@
 
 如有安全问题，请联系：
 - 邮箱：chaoallenkristen@qq.com
-- GitHub Issues：https://github.com/CMSKL/agentharness/issues
+- GitHub Issues：https://github.com/CMSKL/agent-harness/issues
